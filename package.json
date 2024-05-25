@@ -1,11 +1,11 @@
 {
   "name": "code",
   "private": true,
-  "homepage": ".",
+  "homepage": "https://github.com/DarshilDhandhiya/Darshil-Portfolio",
   "version": "0.0.0",
   "type": "module",
   "scripts": {
-    "deploy": "gh-pages -d build",
+    "deploy": "vercel --prod",
     "dev": "vite",
     "build": "vite build",
     "test": "echo \"No tests available\"",
