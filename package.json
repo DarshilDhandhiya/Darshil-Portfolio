@@ -1,7 +1,7 @@
 {
   "name": "code",
   "private": true,
-  "homepage": "https://github.com/DarshilDhandhiya/Darshil-Portfolio",
+  "homepage": ".",
   "version": "0.0.0",
   "type": "module",
   "scripts": {
