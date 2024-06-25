@@ -1,6 +1,7 @@
 {
   "name": "code",
   "private": true,
+  "homepage": "https://DarshilDhandhiya.github.io/code",
   "version": "0.0.0",
   "type": "module",
   "scripts": {
